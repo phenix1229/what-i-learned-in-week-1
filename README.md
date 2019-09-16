@@ -1,50 +1,49 @@
-# What I Learned In Week 0
+# What I Learned In Week 1
 
-## Mac OS Basics
+## Basics of logical thinking/flowcharts
 
-I learned how to set up a Mac laptop for web development. This included:
+I learned about thinking logically. This included:
 
-* Downloading and installing programs
-  * Firefox/Chrome
-  * iTerminal
-  * Visual Studio Code
-  * Slack
+* Using flowcharts to plan out a process from beginning to end, including actions and decisions
+* Using Human Resources Machine (HRM) to practice figuring out the steps needed to complete a task, and the order in which to perform each step
 
-* Switching key functions for convenience
-  
-I also learned how to open and switch between programs without using a mouse.
+I had trouble with some of the logic puzzles in class due to overthinking or missing a clue. I did better in HRM.
 
 ---
 
-## bash
+## bash wildcard
 
-I learned what bash is (a command line/text interface) and how to use it to:
-
-* Manipulate files and directories (folders)
-  *  List
-  *  Create
-  *  Switch between
-  *  Move and rename
-  *  Copy
-  *  Remove (delete)
-  *  Open in Visual Studio Code
-
-* Download from and upload to Github (see below)
+I learned how to use the wildcard `*` in bash to manipulate multiple files at once without typing complete filenames.
+This is very helpful to move, copy, remove every one of a particular file type.
 
 ---
 
-## Markdown
+## HTML
 
-I learned about markdown, which is a simplified language used to quickly create websites and slides using text and symbols such as `#`, `*`, and `-`. 
+I learned about HTML and how to use tags to format text and other items in more elaborate ways than can be done using markdown. 
+
+I was able to easily convert my previous markdown portfolio to a matching html site. However, when it came to improving on the original site, I needed to research and use some CSS in order to make the site look the way I wanted.
+
+I learned how to use anchor `<a>` tags to link to other websites, and to other pages on my own site.
 
 ---
 
 ## Visual Studio Code (VSC)
 
-I learned how to edit files in VSC, as well as how to navigate through and manipulate text using keyboard shortcuts. I also learned how to search for and install extensions to increase/alter the capabilities of the program, and how to alter program preferences.
+I was able to practice with, and improve my skills with VSC. 
+
+I learned how important it is to pay attention to which file you are working on (which directory it is in/if it is a copy). I found myself working on a duplicate file in another directory once, and didn't understand why my changes were not being seen by Git. 
 
 ---
 
 ## Git and Github
 
-I learned about version control using git and github. I learned how to upload and download files from my own account, in addition to how to pull files (fork) from someone else' account. 
+I was able to improve on using Git in general, though I did still run into a few issues.
+
+I learned how important it is to be in the right directory when cloning a repository.
+
+---
+
+## Time 
+
+I learned that sometimes (at least at this point) assignments can take much longer than I thought they would. Issues arise, my brain freezes, further research is required. I also learned I enjoy every minute of it, especially the "aha" moments.
